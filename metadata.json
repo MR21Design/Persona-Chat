@@ -1,0 +1,5 @@
+{
+  "name": "Persona Chat",
+  "description": "A Google Gemini-inspired UI for testing designs with AI-driven personas that simulate user emotions and feedback.",
+  "requestFramePermissions": []
+}
